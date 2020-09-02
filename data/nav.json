@@ -1,0 +1,210 @@
+{
+	"banner" : [
+		{
+			"img" : "banner1"
+		},
+		{
+			"img" : "banner2"
+		},
+		{
+			"img" : "banner3"
+		},
+		{
+			"img" : "banner4"
+		},
+		{
+			"img" : "banner5"
+		},
+		{
+			"img" : "banner6"
+		}
+	],
+	"slide":[
+		{
+			"title" : "手机",
+			"child" : [
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/Dfv6Z1jNUpkSdQEfjU40.png",
+					"name" : "HUAWEI P系列"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/emEoURCoAws3bwrIgjI8.png",
+					"name" : "HUAWEI Mate系列"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/JtWD6wvaxu0qmHbN2tbO.png",
+					"name" : "HUAWEI nova系列"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/wJHIfRVWj3kjLp9RoTBN.png",
+					"name" : "华为畅享系列"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/93515799859519751539.png",
+					"name" : "HUAWEI 麦芒系列"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/J0jm7RuLopoqLL6j9nWc.png",
+					"name" : "荣耀 V系列"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/BcIFunByzSBaydhI8X8T.png",
+					"name" : "荣耀 HONOR系列"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/1NS2TBQr6a8EXKAJ8L4y.png",
+					"name" : "荣耀 X系列"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/RekgcFmB36D9LlwLKmtt.png",
+					"name" : "荣耀 Play系列"
+				}
+			]
+		},
+		{
+			"title" : "笔记本",
+			"child" : [
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/RfnzRjvwIx1VTVm8xHfk.png",
+					"name" : "华为MateBook X系列"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/plqBwqiWNT7w3S1oHify.png",
+					"name" : "华为MateBook系列"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/tDI1s1C6u0UNK3kpjX35.png",
+					"name" : "华为MateBook D系列"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/91536469069516463519.png",
+					"name" : "华为MateBook B系列"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/w1o5IBLA7nNHhuMb2wTl.png",
+					"name" : "荣耀MagicBook系列"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/hTG8axcpAcm4rlc953p1.png",
+					"name" : "荣耀MagicBook Pro系列"
+				}
+			]
+		},
+		{
+			"title" : "平板",
+			"child" : [
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/SoXonWnoeMUuz9KZRGyw.png",
+					"name" : "华为MatePad 系列"
+				}
+				
+			]
+		},
+		{
+			"title" : "智能穿戴&VR",
+			"child" : [
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/bvJbZEMQTr1qy29qnvxZ.png",
+					"name" : "智能手表"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/sYl3EZsnaJp74kySK0uW.png",
+					"name" : "儿童手表"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/Op9zTFnetpE2UBz72lZ6.png",
+					"name" : "智能手环"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/7rB1eW3yTzlmsJxUhz4o.png",
+					"name" : "VR"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/svCuLCsIylj3EagzlFJm.png",
+					"name" : "智能健康配件"
+				}
+				
+			]
+		},
+		{
+			"title" : "智能家居",
+			"child" : [
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/CSkYxTgopbtV6bLHOxWq.png",
+					"name" : "智能路由"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/httvqlH4j44xjH2Fkoeb.png",
+					"name" : "移动路由"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/eXsJchzxTzKRTnevFe0r.png",
+					"name" : "智能音箱"
+				}
+			]
+		},
+		{
+			"title" : "智慧屏",
+			"child" : [
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/jCygCJMv6ginekIsCBmu.png",
+					"name" : "华为智慧屏"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/Y9Qxdhyx2CQ6vFxPY89r.png",
+					"name" : "荣耀智慧屏"
+				}
+			]
+		},
+		{
+			"title" : "耳机音箱",
+			"child" : [
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/Q4tB9qli0N2lI9aqbnUB.jpg",
+					"name" : "蓝牙耳机"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/OArxm5z1VxtyOcsuNGWN.png",
+					"name" : "蓝牙音箱"
+				}
+				
+			]
+		},
+		{
+			"title" : "配件",
+			"child" : [
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/UkPqRhFdsfuw0Mgon0lW.png",
+					"name" : "自拍杆/支架"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/e7VsKW9NLDvxDXhBMFZD.png",
+					"name" : "摄像机/镜头"
+				}
+			]
+		},
+		{
+			"title" : "生态产品",
+			"child" : [
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/U8DruLnlMn8Mn4l8ankk.png",
+					"name" : "安防门锁"
+				}
+			]
+		},
+		{
+			"title" : "增值服务&其他",
+			"child" : [
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/frontCategory/8J0Q5RpbK23FoBD4nX2h.png",
+					"name" : "电池更换服务"
+				},
+				{
+					"img" : "https://res.vmallres.com/pimages//pages/navigation/alMghfvLjM8qE4wuTjY4.png",
+					"name" : "服务器"
+				}
+			]
+		}
+		
+	]
+}

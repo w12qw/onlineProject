@@ -1,0 +1,83 @@
+[
+	{
+		"goodsId" : "001",
+		"goodsName" : "HUAWEI nova 7 SE 5G 6400万高清四摄 40W超级快充 麒麟820 5G SoC芯片 8GB+128GB 全网通版（银月星辉）",
+		"goodsTitle" : "华为 Nova7",
+		"goodsImage" : "https://res.vmallres.com/pimages//display/10086003450797/428_428_b_web229DB47D8DD367FDDAC1647FE70B7069F94C2338F5C09C48.jpg",
+		"goodsDesc" : "享6期免息 赠多重好礼",
+		"goodsPrice" : "￥2399"
+	},
+	{
+		"goodsId" : "002",
+		"goodsName" : "荣耀 Play4T 大内存大电池 4800万AI摄影 全网通 6GB+128GB（蓝水翡翠）",
+		"goodsTitle" : "荣耀 Play4T",
+		"goodsImage" : "https://res.vmallres.com/pimages//display/10086609109348/428_428_a_web580D3348AC589F5A23ED6F8F630712670ABA648435206D81.jpg",
+		"goodsDesc" : "领券立减10元 ",
+		"goodsPrice" : "¥1199"
+	},
+	{
+		"goodsId" : "003",
+		"goodsName" : "华为畅享20 Pro 6GB+128GB 全网通版（星河银）",
+		"goodsTitle" : "华为畅享20 Pro",
+		"goodsImage" : "https://res0.vmallres.com/pimages//product/6972453165077/428_428_C089F3BE3BD266BAC2B777E1190F59241E0CE65223CA694Bmp.png",
+		"goodsDesc" : "赠华为耳机 ",
+		"goodsPrice" : "¥1999"
+	},
+	{
+		"goodsId" : "004",
+		"goodsName" : "荣耀30S 麒麟820 5G芯片 3倍光学变焦 20倍数字变焦 8GB+128GB 蝶羽白",
+		"goodsTitle" : "荣耀30S 5G",
+		"goodsImage" : "https://res0.vmallres.com/pimages//product/6901443388141/428_428_AE2A1F00B7D98D94AAB55AD59800475D6ADFA000C71CA40Fmp.png",
+		"goodsDesc" : "限量送移动电源 ",
+		"goodsPrice" : "¥2399"
+	},
+	{
+		"goodsId" : "005",
+		"goodsName" : "【热销爆款】HUAWEI nova 5z 6GB+128GB 全网通版（极光色）麒麟810芯片",
+		"goodsTitle" : "HUAWEI nova 5z",
+		"goodsImage" : "https://res0.vmallres.com/pimages//product/6901443382682/428_428_0962C55E71C7EAE112BE308340F468BC3D9537D254BC4B79mp.png",
+		"goodsDesc" : "限时直降300 ",
+		"goodsPrice" : "¥1499"
+	},
+	{
+		"goodsId" : "006",
+		"goodsName" : "【热销爆款】HUAWEI nova 5z 6GB+128GB 全网通版（极光色）麒麟810芯片",
+		"goodsTitle" : "HUAWEI nova 5z",
+		"goodsImage" : "https://res0.vmallres.com/pimages//product/6901443382682/428_428_0962C55E71C7EAE112BE308340F468BC3D9537D254BC4B79mp.png",
+		"goodsDesc" : "限时直降300 ",
+		"goodsPrice" : "¥1499"
+	},
+	{
+		"goodsId" : "007",
+		"goodsName" : "【热销爆款】HUAWEI nova 5z 6GB+128GB 全网通版（极光色）麒麟810芯片",
+		"goodsTitle" : "HUAWEI nova 5z",
+		"goodsImage" : "https://res0.vmallres.com/pimages//product/6901443382682/428_428_0962C55E71C7EAE112BE308340F468BC3D9537D254BC4B79mp.png",
+		"goodsDesc" : "限时直降300 ",
+		"goodsPrice" : "¥1499"
+	},
+	{
+		"goodsId" : "008",
+		"goodsName" : "【热销爆款】HUAWEI nova 5z 6GB+128GB 全网通版（极光色）麒麟810芯片",
+		"goodsTitle" : "HUAWEI nova 5z",
+		"goodsImage" : "https://res0.vmallres.com/pimages//product/6901443382682/428_428_0962C55E71C7EAE112BE308340F468BC3D9537D254BC4B79mp.png",
+		"goodsDesc" : "限时直降300 ",
+		"goodsPrice" : "¥1499"
+	},
+	{
+		"goodsId" : "009",
+		"goodsName" : "【热销爆款】HUAWEI nova 5z 6GB+128GB 全网通版（极光色）麒麟810芯片",
+		"goodsTitle" : "HUAWEI nova 5z",
+		"goodsImage" : "https://res0.vmallres.com/pimages//product/6901443382682/428_428_0962C55E71C7EAE112BE308340F468BC3D9537D254BC4B79mp.png",
+		"goodsDesc" : "限时直降300 ",
+		"goodsPrice" : "¥1499"
+	},
+	{
+		"goodsId" : "010",
+		"goodsName" : "【热销爆款】HUAWEI nova 5z 6GB+128GB 全网通版（极光色）麒麟810芯片",
+		"goodsTitle" : "HUAWEI nova 5z",
+		"goodsImage" : "https://res0.vmallres.com/pimages//product/6901443382682/428_428_0962C55E71C7EAE112BE308340F468BC3D9537D254BC4B79mp.png",
+		"goodsDesc" : "限时直降300 ",
+		"goodsPrice" : "¥1499"
+	}
+	
+]

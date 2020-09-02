@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* 清除浏览器默认间距 */
+* {
+  margin: 0;
+  padding: 0; }
+
+/*清除b,strong标签的默认样式 */
+b, strong {
+  font-weight: normal; }
+
+/* 清除i,em标签的默认样式 */
+i, em {
+  font-style: normal; }
+
+/* 清除a标签默认下划线 */
+a {
+  text-decoration: none;
+  cursor: pointer; }
+
+/* 清除列表默认样式 */
+ul, li {
+  list-style: none; }
+
+/* 万能清除法 */
+.clear-fix::after {
+  content: ".";
+  width: 100%;
+  height: 0;
+  display: block;
+  clear: both;
+  overflow: hidden;
+  visibility: hidden; }
+
+/* 兼容ie6浏览器 */
+.clear-fix {
+  zoom: 1; }
+
+.clear-fix::before {
+  content: "";
+  display: table; }
+
+.clear-fix::after {
+  content: "";
+  display: table;
+  clear: both; }
+
+/* 图片兼容 */
+img {
+  display: block;
+  border: 0 none; }

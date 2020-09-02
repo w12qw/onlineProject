@@ -1,0 +1,139 @@
+{
+	"list" : [
+		{
+			"img" : "https://res0.vmallres.com/pimages//product/6901443407224/428_428_3902B07CFCF23A955D3BF09823304B91BFCF9973436C427Dmp.png",
+			"desc" : "预订省100+蓝牙鼠标+3期免息  ",
+			"title" : "HUAWEI MateBook D 14 锐龙版",
+			"price"	: "¥4099",
+			"news" : "新品上市"
+		},
+		{
+			"img" : "https://res0.vmallres.com/pimages//product/6901443385669/428_428_FE4B22020F44311F8B2C1855BDBC5E061FD4A35898888B92mp.png",
+			"desc" : "预订优惠800+12期免息  ",
+			"title" : "华为智慧屏 V65i",
+			"price"	: "¥5499",
+			"news" : ""
+		},
+		{
+			"img" : "https://res0.vmallres.com/pimages//product/6901443320202/428_428_A8033BCC8CCFFF9199371E71953A1B8B9730D5ACACA293D0mp.png",
+			"desc" : "特惠预订省200元  ",
+			"title" : "HUAWEI WATCH GT 2",
+			"price"	: "¥1488",
+			"news" : "热销爆款"
+		},
+		{
+			"img" : "https://res0.vmallres.com/pimages//product/6972453160997/428_428_184B441A9E325CEB3B9DB407369725D3B269072768467E7Dmp.png",
+			"desc" : "预订省100+赠鼠标+3期免息  ",
+			"title" : "HUAWEI MateBook X Pro 2020款",
+			"price"	: "¥12999",
+			"news" : "3K 触控屏"
+		},
+		{
+			"img" : "https://res0.vmallres.com/pimages//product/6901443367184/428_428_F9F4EE995E57451AF213E2C51B6C1E181BBFBD19D1C6A57Bmp.png",
+			"desc" : "稀缺货源  限量发售  ",
+			"title" : "HUAWEI MateBook 13",
+			"price"	: "¥4699",
+			"news" : ""
+		},
+		{
+			"img" : "https://res0.vmallres.com/pimages//product/6901443275656/428_428_1545200844844mp.png",
+			"desc" : "七重定位 高清通话  ",
+			"title" : "荣耀小K2儿童手表",
+			"price"	: "¥249",
+			"news" : ""
+		},
+		{
+			"img" : "https://res0.vmallres.com/pimages//product/6901443364794/428_428_A9AEEFF0772BAB57B50C81170E109BE5271E46B62A782D0Dmp.png",
+			"desc" : "预订省100+3期免息  ",
+			"title" : "HUAWEI MateBook 13 2020款",
+			"price"	: "¥5999",
+			"news" : "新品上市"
+		},
+		{
+			"img" : "https://res0.vmallres.com/pimages//product/6901443268856/428_428_1540191582480mp.png",
+			"desc" : "麒麟8核芯片  ",
+			"title" : "荣耀平板5 10.1英寸",
+			"price"	: "¥1599",
+			"news" : ""
+		},
+		{
+			"img" : "https://res0.vmallres.com/pimages//product/6901443252824/428_428_1543305800521mp.png",
+			"desc" : "360度全景视角  ",
+			"title" : "华为安居智能摄像机",
+			"price"	: "¥299",
+			"news" : ""
+		},
+		{
+			"img" : "https://res0.vmallres.com/pimages//product/6901443347032/428_428_DB8EC7E5A31C9F26EC83A1E91621A0A40BC82403BFE613C9mp.png",
+			"desc" : "拼团立省100",
+			"title" : "【拼团】华为智能体脂秤 2 Pro",
+			"price"	: "¥499",
+			"news" : ""
+		},
+		{
+			"img" : "https://res0.vmallres.com/pimages//product/6972453165985/428_428_93BCD651C90D2B5EFD779DB353F1A2E36DFAE529FA49026Emp.png",
+			"desc" : "特惠预订省100元",
+			"title" : "【新品预订】华为儿童手表 4X",
+			"price"	: "¥1398",
+			"news" : "新品上市"
+		},
+		{
+			"img" : "https://res0.vmallres.com/pimages//product/6901443404773/428_428_9E9BB74E5BDE294EF434F0CB36AEF771557E66226770F4ABmp.png",
+			"desc" : "敬请期待",
+			"title" : "荣耀平板X6",
+			"price"	: "¥1099",
+			"news" : "新品上市"
+		},
+		{
+			"img" : "https://res0.vmallres.com/pimages//product/6901443404773/428_428_9E9BB74E5BDE294EF434F0CB36AEF771557E66226770F4ABmp.png",
+			"desc" : "敬请期待",
+			"title" : "荣耀平板X6",
+			"price"	: "¥1099",
+			"news" : "新品上市"
+		},
+		{
+			"img" : "https://res0.vmallres.com/pimages//product/6901443404773/428_428_9E9BB74E5BDE294EF434F0CB36AEF771557E66226770F4ABmp.png",
+			"desc" : "敬请期待",
+			"title" : "荣耀平板X6",
+			"price"	: "¥1099",
+			"news" : "新品上市"
+		},
+		{
+			"img" : "https://res0.vmallres.com/pimages//product/6901443404773/428_428_9E9BB74E5BDE294EF434F0CB36AEF771557E66226770F4ABmp.png",
+			"desc" : "敬请期待",
+			"title" : "荣耀平板X6",
+			"price"	: "¥1099",
+			"news" : "新品上市"
+		},
+		{
+			"img" : "https://res0.vmallres.com/pimages//product/6901443404773/428_428_9E9BB74E5BDE294EF434F0CB36AEF771557E66226770F4ABmp.png",
+			"desc" : "敬请期待",
+			"title" : "荣耀平板X6",
+			"price"	: "¥1099",
+			"news" : "新品上市"
+		}
+	],
+	"banner" : [
+		{
+			"img" : "https://res.vmallres.com/pimages//pages/picImages/61717938669513971716.jpg"
+		},
+		{
+			"img" : "https://res.vmallres.com/pimages//pages/picImages/51799919379511999715.jpg"
+		},
+		{
+			"img" : "https://res.vmallres.com/pimages//pages/picImages/66209216169511290266.png"
+		},
+		{
+			"img" : "https://res.vmallres.com/pimages//pages/picImages/32953911269511935923.jpg"
+		},
+		{
+			"img" : "https://res.vmallres.com/pimages//pages/picImages/47369432249513496374.png"
+		},
+		{
+			"img" : "https://res.vmallres.com/pimages//pages/picImages/92000118359511100029.jpg"
+		}
+	]
+
+
+
+}
